@@ -1,4 +1,4 @@
-#Project Datails
+## Project Datails
 This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter project.
 
 ## Live Demo
